@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid-19 Torres</string>
+    <string name="list_boletins">Bulletin List</string>
+    <string name="iData">Date</string>
+    <string name="iSuspeitos">Suspects:</string>
+    <string name="textView_suspeitos">Suspects:</string>
+    <string name="textView_confirmados">Confirmed:</string>
+    <string name="textView_descartados">Discarded:</string>
+    <string name="textView_monitoramento">Monitoring:</string>
+    <string name="textView_curados">Cured:</string>
+    <string name="textView_suspeitos_isolamento_domiciliar">Suspects in home isolation:</string>
+    <string name="textView_suspeitos_isolamento_hospitalar">Suspects in hospital isolation:</string>
+    <string name="textView_confirmados_isolamento_hospitalar">Confirmed in hospital isolation:</string>
+    <string name="textView_mortes">Deaths</string>
+    <string name="title_voltar">Back</string>
+    <string name="main_title">Newsletter - Covid19 in Torres</string>
+</resources>

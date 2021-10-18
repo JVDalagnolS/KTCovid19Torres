@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Covid-19 Torres</string>
+    <string name="list_boletins">Lista de boletins</string>
+    <string name="iData">Data</string>
+    <string name="iSuspeitos">Suspeitos:</string>
+    <string name="textView_suspeitos">Suspeitos:</string>
+    <string name="textView_confirmados">Confirmados:</string>
+    <string name="textView_descartados">Descartados:</string>
+    <string name="textView_monitoramento">Monitoramento:</string>
+    <string name="textView_curados">Curados:</string>
+    <string name="textView_suspeitos_isolamento_domiciliar">Suspeitos em isol. domiciliar:</string>
+    <string name="textView_suspeitos_isolamento_hospitalar">Suspeitos em isol. hospitalar:</string>
+    <string name="textView_confirmados_isolamento_hospitalar">Corfirmados em isol. hospitalar:</string>
+    <string name="textView_mortes">Mortes</string>
+    <string name="title_voltar">Voltar</string>
+    <string name="main_title">Boletim Informativo - Covid19 em Torres</string>
+</resources>
